@@ -13,7 +13,7 @@ Fourier transformation (FFT) is used to read audio files and recognize DTMF tone
 ## How to Use
 
 1. Place your DTMF WAV files in the specified directory.
-2. Run the `dtmf_detection.py` script to analyze the audio files and detect DTMF tones.
+2. Run the `SH_P2.py` script to analyze the audio files and detect DTMF tones.
 
 ## Requirements
 
